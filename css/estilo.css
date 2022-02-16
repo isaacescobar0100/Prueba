@@ -1,0 +1,17 @@
+h1{
+    color:blue;
+}
+p{
+    color:green;
+    background-color:aquamarine;
+    font-size: 18px;
+    ;border: 2px green solid;
+}
+h2{
+    color:brown;
+}
+body{
+    color:blue;
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
